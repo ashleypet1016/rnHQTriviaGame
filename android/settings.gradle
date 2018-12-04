@@ -1,0 +1,3 @@
+rootProject.name = 'rnHQTrivia'
+
+include ':app'
